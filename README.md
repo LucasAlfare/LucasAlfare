@@ -8,7 +8,7 @@
 
 ### My general projects
 
-If you dive into my profile is possible to see some projects named with an "`FL`". Those are my personal projects that I'm trying to give more attention beyond only studying and coding experiments. As a breif resume of then, we have:
+If you dive into my profile is possible to see some projects named with an "`FL`". Those are my personal projects that I'm trying to give more attention beyond only studying and coding experiments. As a brief resume of then, we have:
 
 - `FLBinary`: my own custom project to work with bytes writing and reading from scratch in low level (Kotlin);
 - `FLListening`: my own custom abstraction to to get reusability over patterns, such as `observer` and `event-driven` (Kotlin);
