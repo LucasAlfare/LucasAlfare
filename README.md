@@ -4,7 +4,7 @@
 - 👀 I’m interested in algorithms, architectures, computer puzzling, general tools and in mobile and gamming programming;
 - 🌱 I’m currently learning client/server architectures;
 - 💞️ I’m looking to collaborate on games and general programming;
-- 📫 You all can find me at Instagram @lucas.alfare :)
+- 📫 You all can find me at Instagram [@lucas.alfare](https://www.instagram.com/lucas.alfare/) :)
 
 ### My general projects
 
