@@ -1,7 +1,7 @@
 ### By resume...
 
-- 👋 Hi, I’m @LucasAlfare
-- 👀 I’m interested in algorithms, architectures, computer puzzling, general tools and gamming programming;
+- 👋 I’m @LucasAlfare, hi!
+- 👀 I’m interested in algorithms, architectures, computer puzzling, general tools and in mobile and gamming programming;
 - 🌱 I’m currently learning client/server architectures;
 - 💞️ I’m looking to collaborate on games and general programming;
 - 📫 You all can find me at Instagram @lucas.alfare :)
