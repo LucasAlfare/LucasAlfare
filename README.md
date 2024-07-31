@@ -11,6 +11,7 @@
 If you dive into my profile is possible to see some projects named with an "`FL`". Those are my personal projects that I'm trying to give more attention beyond only studying and coding experiments. As a brief resume of then, we have:
 
 - [`FL-Refs`](https://github.com/LucasAlfare/FL-Refs): my own backend system to manage images of reference sheet style (for drawing/3D modeling/sculpting);
+- [`yssh`](https://github.com/LucasAlfare/yssh): My own tool that helps me to separate instrument tracks of automatically downloaded youtube songs;
 - [`FLTimer`](https://github.com/LucasAlfare/FLTimer/tree/view_modeling): my custom project of timer/chronometer for speedcubing. This aims to have a lot of another tools beyond only timming (Desktop/Mobile);
 - [`FLMidi`](https://github.com/LucasAlfare/FLEngine): project used to extract information from binary files of sound format MIDI (_.mid_ extension) (Kotlin);
 - [`FLArcheology`](https://github.com/LucasAlfare/FLArcheology): my custom project to work with the MMORPG Runescape3 Archeology skill data. Should be turned into an free access API in the future (Kotlin/Binary?/Protobuf?/JSON).
