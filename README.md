@@ -10,11 +10,8 @@
 
 If you dive into my profile is possible to see some projects named with an "`FL`". Those are my personal projects that I'm trying to give more attention beyond only studying and coding experiments. As a brief resume of then, we have:
 
+- [`FL-Refs`](https://github.com/LucasAlfare/FL-Refs): my own backend system to manage images of reference sheet style (for drawing/3D modeling/sculpting);
 - [`FLTimer`](https://github.com/LucasAlfare/FLTimer/tree/view_modeling): my custom project of timer/chronometer for speedcubing. This aims to have a lot of another tools beyond only timming (Desktop/Mobile);
-- [`FLBinary`](https://github.com/LucasAlfare/FLBinary): my own custom project to work with bytes writing and reading from scratch in mid-low level (Kotlin);
-- [`FLListening`](https://github.com/LucasAlfare/FLListening): my own custom abstraction to get reusability of patterns `observer` and `event-driven` (Kotlin);
-- [`FLHexrray`](https://github.com/LucasAlfare/FLHexrray): my personal implementation to work with small arrays as hexadecimal numbers (Kotlin);
-- [`FLEngine`](https://github.com/LucasAlfare/FLEngine): my first (old/deprecated?) project of 2D/3D graphics engine/framework (Kotlin);
 - [`FLMidi`](https://github.com/LucasAlfare/FLEngine): project used to extract information from binary files of sound format MIDI (_.mid_ extension) (Kotlin);
 - [`FLArcheology`](https://github.com/LucasAlfare/FLArcheology): my custom project to work with the MMORPG Runescape3 Archeology skill data. Should be turned into an free access API in the future (Kotlin/Binary?/Protobuf?/JSON).
 
