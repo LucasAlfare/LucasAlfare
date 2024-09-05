@@ -1,6 +1,7 @@
 # Quick about me
 _I am..._
 - Francisco Lucas, hi! 👋
+- I am 30 yo 🎈;
 - from Brazil 🇧🇷
 - primarily, a pharmacist and clinical analyser, but I like programming 😅
 - interested in algorithms, architectures, computer puzzling, general tools and mobile and gamming programming 👀
